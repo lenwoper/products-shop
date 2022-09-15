@@ -1,1 +1,1 @@
-### `React ecomerce site in typescript 
+### `React ecomerce site in typescript `
